@@ -1,13 +1,18 @@
 ## Hi there, I'm Rui Neto 👋
 
-<br>
-
 Feel free to check some of my projects.
 
-<br>
+<div align="center"><br> 
+  <p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
+  <p align="center"><img src="https://profile-counter.glitch.me/{ruineto015}/count.svg"/></p>
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/{ruineto015}/count.svg)
+### About me
 
+- 🔭 I’m currently working on improving my skills in Software Architecture.
+- 🌱 I’m currently learning Software Engineering at ISEP, Porto.
+- 👯 I’m looking to collaborate on open-source projects related to backend development and AI.
+- 📫 You can reach me via email at ruineto015@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rui-jorge-neto/).
 
 <!--
 **RuiNeto015/RuiNeto015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
