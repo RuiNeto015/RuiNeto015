@@ -2,7 +2,7 @@
 
 <br>
 
-Feel free to check some ogf my projects.
+Feel free to check some of my projects.
 
 <br>
 
