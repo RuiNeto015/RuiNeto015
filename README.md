@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Rui Neto 👋
+
+<br>
+
+Feel free to check some ogf my projects.
+
+<br>
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 <!--
 **RuiNeto015/RuiNeto015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
