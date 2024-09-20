@@ -10,7 +10,6 @@ Feel free to check some of my projects.
 ### About me
 
 - 🌱 I'm currently pursuing a Master's degree in Software Engineering at ISEP, Porto.
-- 👯 Also, I’m looking to collaborate on open-source projects related to backend development and AI.
 - 📫 You can reach me via email at ruineto015@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rui-jorge-neto/).
 
 <!--
