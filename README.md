@@ -2,11 +2,9 @@
 
 Feel free to check some of my projects.
 
-### About me
-
-- 🌱 I'm currently pursuing a Master's degree in Software Engineering at ISEP, Porto.
-- 📫 You can reach me via email at ruineto015@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rui-jorge-neto/).
-
+🌱 Currently exploring computer vision with a focus on collecting and analyzing padel player statistics.
+💻 Passionate about full-stack development and AI applications in real-world systems.
+📫 Reach me at ruineto015@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/rui-jorge-neto/).
 <!--
 **RuiNeto015/RuiNeto015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
